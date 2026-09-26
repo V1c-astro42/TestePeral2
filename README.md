@@ -1,2 +1,2 @@
-# TestePeral
-Entendendo o GitHub
+# CALCULO DE MÉDIA
+Projeto para calcular a média dos alunos
