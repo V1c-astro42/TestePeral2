@@ -1,2 +1,2 @@
-# TestePeral2
+# TestePeral
 Entendendo o GitHub
